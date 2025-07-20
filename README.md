@@ -49,16 +49,18 @@ This project is built for educational purposes and demonstrates core Flutter arc
 
 
 ### 🏠 Home Page
+<img width="406" height="776" alt="Screenshot 2025-07-20 104303" src="https://github.com/user-attachments/assets/ed263f29-01cd-4f5c-9680-cb3c7e53d51c" />
 
-![Home](assets/screenshots/home.png)
 
 ### 🛒 Cart Page
 
-![Cart](assets/screenshots/cart.png)
+<img width="590" height="1020" alt="Screenshot 2025-07-20 105416" src="https://github.com/user-attachments/assets/bfa60e49-cb08-4b54-a2bf-192c47139543" />
+
 
 ### ❤️ Favourites Page
 
-![Favourites](assets/screenshots/favourites.png)
+<img width="585" height="1015" alt="Screenshot 2025-07-20 105433" src="https://github.com/user-attachments/assets/ea697a03-3510-4cce-b640-d930091807d0" />
+
 
 ---
 
