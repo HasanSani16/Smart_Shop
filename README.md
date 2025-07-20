@@ -52,9 +52,16 @@ This project is built for educational purposes and demonstrates core Flutter arc
 <img width="406" height="776" alt="Screenshot 2025-07-20 104303" src="https://github.com/user-attachments/assets/ed263f29-01cd-4f5c-9680-cb3c7e53d51c" />
 
 
+### 🏠 Dark Mode
+<img width="440" height="798" alt="Screenshot 2025-07-20 104323" src="https://github.com/user-attachments/assets/e9ca77e7-3186-4de3-8187-f096bc59e33c" />
+
+
 ### 🛒 Cart Page
 
 <img width="590" height="1020" alt="Screenshot 2025-07-20 105416" src="https://github.com/user-attachments/assets/bfa60e49-cb08-4b54-a2bf-192c47139543" />
+
+### App drawer 
+<img width="596" height="1029" alt="Screenshot 2025-07-20 105549" src="https://github.com/user-attachments/assets/baa1af24-ee03-45e7-b481-08656e292698" />
 
 
 ### ❤️ Favourites Page
@@ -62,12 +69,12 @@ This project is built for educational purposes and demonstrates core Flutter arc
 <img width="585" height="1015" alt="Screenshot 2025-07-20 105433" src="https://github.com/user-attachments/assets/ea697a03-3510-4cce-b640-d930091807d0" />
 
 
----
+------
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/smart_shop.git
-cd smart_shop
+https://github.com/HasanSani16/Smart_Shop.git
+cd Smart_Shop
