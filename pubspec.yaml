@@ -1,0 +1,25 @@
+name: smart_shop
+description: A mini e-commerce Flutter app using Provider, SharedPreferences, and REST API
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.0
+  shared_preferences: ^2.2.2
+  http: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+
+  # For Material Icons
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
