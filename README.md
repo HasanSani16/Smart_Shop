@@ -45,7 +45,8 @@ This project is built for educational purposes and demonstrates core Flutter arc
 
 ### 🔑 Login Screen
 
-![Login](assets/screenshots/login.png)
+<img width="408" height="793" alt="Screenshot 2025-07-20 104454" src="https://github.com/user-attachments/assets/20fdef59-fbf0-42df-8ff8-53d35f2484dd" />
+
 
 ### 🏠 Home Page
 
